@@ -1,2 +1,2 @@
-# Calculator.python
+# Internship tasks
 calculator using python
